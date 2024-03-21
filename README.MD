@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pratham Goyal</h1>
-<h3 align="center">Java Enthusiast and MERN Stack Developer from Chandigarh,India</h3>
 
 - 🌱 I’m currently learning **cloud computing.**
 
