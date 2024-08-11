@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Goyal</h1>
 
-- 🌱 I’m currently learning **cloud computing.**
-
 - 💬 Ask me about **JAVA , MERN Stack**
 
 - 📫 How to reach me **prathamg2003@gmail.com**
