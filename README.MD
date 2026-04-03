@@ -34,26 +34,23 @@ Currently working with **Spring WebFlux + Project Reactor**, **Kafka**, **Redis*
 
 ### Stack
 
-```
-Languages    Java  ·  TypeScript  ·  JavaScript  ·  SQL
-Frameworks   Spring Boot  ·  Spring WebFlux  ·  Express.js  ·  React.js
-Streaming    Apache Kafka  ·  Apache Flink
-Storage      Redis  ·  MongoDB  ·  PostgreSQL  ·  MySQL
-Infra        Docker  ·  Kubernetes  ·  Git
-```
-
----
-
-### Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wakeuppratham&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=94a3b8)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ---
 
 ### Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pratham--goyal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-goyal)
-[![LeetCode](https://img.shields.io/badge/LeetCode-prathamg2003-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/prathamg2003)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_solved-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/prathamg2003)
 [![Email](https://img.shields.io/badge/Email-prathamg2003%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prathamg2003@gmail.com)
 
 ---
