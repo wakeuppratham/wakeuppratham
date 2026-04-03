@@ -27,8 +27,8 @@ Currently working with **Spring WebFlux + Project Reactor**, **Kafka**, **Redis*
 
 | Repo | Stack | What it does |
 |------|-------|--------------|
-| [EchoHub](https://github.com/wakeuppratham/EchoHub) | MERN · Socket.IO | Real-time messaging with ack-based delivery & client-side dedup |
-| [Multithreaded-socket](https://github.com/wakeuppratham/Multithreaded-socket) | Java · ExecutorService | Concurrent multi-client server with fixed thread pool + graceful shutdown |
+| [EchoHub](https://github.com/wakeuppratham/EchoHub) | MERN · Socket.IO | Real-time messaging with delivery acknowledgements & duplicate message prevention |
+| [Multithreaded-socket](https://github.com/wakeuppratham/Multithreaded-socket) | Java · ExecutorService | Concurrent multi-client server with fixed thread pool + per-client request isolation |
 
 ---
 
